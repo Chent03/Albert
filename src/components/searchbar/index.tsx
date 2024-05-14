@@ -40,7 +40,6 @@ export const SearchBar: React.FC<TProps> = ({
       setResults(stocks)
       setIsVisible(true)
     } catch (error) {
-      console.log(error, 'the error')
       setIsVisible(false)
     }
   }, 500)

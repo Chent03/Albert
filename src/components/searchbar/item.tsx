@@ -25,7 +25,6 @@ export const Item: React.FC<TProps> = ({
         [symbol]: name,
       })
     } else {
-      console.log('click click')
       removeStock(symbol)
     }
   }
