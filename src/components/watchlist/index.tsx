@@ -22,7 +22,7 @@ export const Watchlist: React.FC<TProps> = ({
   const hasEntries = list.length
 
   return (
-    <div className="border w-1/2 mt-4 rounded">
+    <div className="border w-1/2 mt-4 rounded min-w-96">
       <div className="flex justify-between p-2">
         <div className="flex items-center text-xl">
           <FontAwesomeIcon icon={faGlasses} />
