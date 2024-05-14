@@ -4,11 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting started
 
-1. `npm install`
-2. `npm start`
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-4. Search for a stock to add to your watch list
-5. `npm run test` if you wish to run some of the unit/component test.
+1. Please add API KEY to .env file
+2. `npm install`
+3. `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+5. Search for a stock to add to your watch list
+6. `npm run test` if you wish to run some of the unit/component test.
 
 ## React and React Native engineering case study
 
